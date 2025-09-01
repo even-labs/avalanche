@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Ruby SDK for Avalanche"
   spec.description   = "A Ruby gem to interact with Avalanche's primary network, Avalanche L1s, and Ethereum."
-  spec.homepage      = "https://github.com/even-labs/avalanche.rb"
+  spec.homepage      = "https://github.com/even-labs/avalanche"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 3.1.0"
 
